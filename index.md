@@ -4,7 +4,16 @@ mathjax: true
 ---
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02JDMDF6zMMbKRVcsZWfxkhWiBUvzwXdinKZfSd6SSMFJULhuXratj4bEBinfbF11gl%26id%3D100084464911565&show_text=true&width=500" width="500" height="520" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0Ziuxshe7mXwwRXuR8krsGyncDbxJ4PCNnWj5r5rkJdEsLN9YXHedAUmeb3WXUFCgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02KBbLpiKPJYdTvwu35Y1tQnXdu2tWrfBkiaNQxtTTSpMZkxb7xEN8fEFSZLnS6kAnl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid025MSigt9ebBE8J8HGaMEetxgdPUY13KtKu2ebN5CXcidJMivb7YJjLAwDpHitNwN3l%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02p5e5HpbV9uuo3V7aoe4HzTXGjyg8u2UZ76sm9FrJH15guJceCZHK7YqpjNqffqEUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="207" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # Akira - Pioneer Dub
 
