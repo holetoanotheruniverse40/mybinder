@@ -5,6 +5,38 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+Search Phrase: 
+CODE TEXT
+PENAL CODE - PEN
+[PART 1. OF CRIMES AND PUNISHMENTS 25 - 680.4 Part 1 enacted 1872](https://www.egattorneys.com/california-penal-code-647-j4)
+TITLE 15. MISCELLANEOUS CRIMES [626 - 653.75]  ( Title 15 enacted 1872. )  
+
+[CHAPTER 2. Of Other and Miscellaneous Offenses 639 - 653.2   Chapter 2 enacted 1872. ](https://www.tumblr.com/blog/santamonicashaadi)
+  
+647.  
+Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) and (l), every person who commits any of the following acts is guilty of disorderly conduct, a misdemeanor:
+
+(a) An individual who solicits anyone to engage in or who engages in lewd or dissolute conduct in a public place or in a place open to the public or exposed to public view.
+
+(b) (1) An individual who solicits, or who agrees to engage in, or who engages in, an act of prostitution with the intent to receive compensation, money, or anything of value from another person. An individual agrees to engage in an act of prostitution when, with specific intent to so engage, the individual manifests an acceptance of an offer or solicitation by another person to so engage, regardless of whether the offer or solicitation was made by a person who also possessed the specific intent to engage in an act of prostitution.
+
+(2) An individual who solicits, or who agrees to engage in, or who engages in, an act of prostitution with another person who is 18 years of age or older in exchange for the individual providing compensation, money, or anything of value to the other person. An individual agrees to engage in an act of prostitution when, with specific intent to so engage, the individual manifests an acceptance of an offer or solicitation by another person who is 18 years of age or older to so engage, regardless of whether the offer or solicitation was made by a person who also possessed the specific intent to engage in an act of prostitution.
+
+(3) An individual who solicits, or who agrees to engage in, or who engages in, an act of prostitution with another person who is a minor in exchange for the individual providing compensation, money, or anything of value to the minor. An individual agrees to engage in an act of prostitution when, with specific intent to so engage, the individual manifests an acceptance of an offer or solicitation by someone who is a minor to so engage, regardless of whether the offer or solicitation was made by a minor who also possessed the specific intent to engage in an act of prostitution.
+
+(4) A manifestation of acceptance of an offer or solicitation to engage in an act of prostitution does not constitute a violation of this subdivision unless some act, in addition to the manifestation of acceptance, is done within this state in furtherance of the commission of the act of prostitution by the person manifesting an acceptance of an offer or solicitation to engage in that act. As used in this subdivision, “prostitution” includes any lewd act between persons for money or other consideration.
+
+(5) Notwithstanding paragraphs (1) to (3), inclusive, this subdivision does not apply to a child under 18 years of age who is alleged to have engaged in conduct to receive money or other consideration that would, if committed by an adult, violate this subdivision. A commercially exploited child under this paragraph may be adjudged a dependent child of the court pursuant to paragraph (2) of subdivision (b) of Section 300 of the Welfare and Institutions Code and may be taken into temporary custody pursuant to subdivision (a) of Section 305 of the Welfare and Institutions Code, if the conditions allowing temporary custody without warrant are met.
+
+(c) Who accosts other persons in a public place or in a place open to the public for the purpose of begging or soliciting alms.
+
+(d) Who loiters in or about a toilet open to the public for the purpose of engaging in or soliciting a lewd or lascivious or an unlawful act.
+
+(e) Who lodges in a building, structure, vehicle, or place, whether public or private, without the permission of the owner or person entitled to the possession or in control of it.
+
+(f) Who is found in a public place under the influence of intoxicating liquor, a drug, controlled substance, toluene, or a combination of an intoxicating liquor, drug, controlled substance, or toluene, in a condition that they are unable to exercise care for their own safety or the safety of others, or by reason of being under the influence of intoxicating liquor, drug, controlled substance, toluene, or a combination of an intoxicating liquor, drug, or toluene, interferes with or obstructs or prevents the free use of a street, sidewalk, or other public way.
+
+(g) If a person has violated subdivision (f), a peace officer, if reasonably able to do so, shall place the person, or cause the person to be placed, in civil protective custody. The person shall be taken to a facility, designated pursuant to Section 5170 of the Welfare and Institutions Code, for the 72-hour treatment and evaluation of inebriates. A peace officer may place a person in civil protective custody with that kind and degree of force authorized to effect an arrest for a misdemeanor withou
 
 <iframe src="https://archive.org/embed/super-mario-rpg-legend-of-the-seven-stars-snes" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
