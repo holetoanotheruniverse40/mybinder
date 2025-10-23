@@ -6,6 +6,171 @@ mathjax: true
 `jekyll.version`  {{ jekyll.version }}
 
 
+# Super Chase - Criminal Termination 1993
+## スーパー・チェイス・クリミナル・ターミネション
+[wiki](https://en.wikipedia.org/wiki/Super_Chase_H.Q.) : [Museum](https://www.arcade-museum.com/Videogame/super-chase-criminal-termination)  : [LaunchBoX](https://gamesdb.launchbox-app.com/games/details/39251-super-chase-criminal-termination)
+: [AbandonWare](https://www.myabandonware.com/game/super-chase-criminal-termination-aue)
+<img width="320" height="78" alt="strategywiki.org/wiki/File:Super_Chase_marquee" src="https://github.com/user-attachments/assets/cfb677ff-4c75-406f-acc5-6d42ef5eafff" />
+
+<iframe src="https://archive.org/embed/arcade_superchs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Gangstarr - Moment_0f_Truth FULL ALBUM](https://youtu.be/b1EbbT7Xrgs?si=bM1BGbtQnU9YUgSc) [Shaakira_Gathers_iLoveu](https://rashardiman.github.io/)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+[https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)
+
+# NASA Appropriations and Authorizations:
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
+[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles 
+[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
+
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dd12c5e3-bea3-4691-a96b-f0c7364f7aa1" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b021997d-e137-4fa5-916e-f3eec6f512aa" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b6c8898f-2eee-48c5-b54a-f579cd2093ed" />
+
+# HiView 
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format 
+[Intro, April 2012 Update](https://www.youtube.com/watch?v=y3PCKnACusk) ::: [UserGuide @newshour @datadesk](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) ::: [Download](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView)
+![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg) [gdscc.nasa.gov/index.php/tours/](https://www.gdscc.nasa.gov/index.php/tours/)
+![HiPOD @HiRiSE @NASA @blackgirlscode](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
+
+### Panoply Data Viewer
+Panoply requires a computer with Java 11 [download](https://www.giss.nasa.gov/tools/panoply/download/)
+4 NETCDF files GiS_DATA
+[pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fa5fg6kkcovesfrk6tzfwjg3/app.bsky.feed.post/3m3svun7l5s26" data-bluesky-cid="bafyreidj5jh5o5hugtalpnir7jfxmi6e6mnk757m3wu2dyd6ic6kwf7e44" data-bluesky-embed-color-mode="system"><p lang="en">#MR_OBAMA! its rashard from @nasaearthwatch.bsky.social #EARTHDATA #LOSANGELES #JPL but im confused bc the gate and the call center are not follwoing protocol, iDont knw how to tell u github.com/rashardsdata... @crockett.house.gov @beyer.house.gov @repgwenmoore.bsky.social @judiciarydems.senate.gov<br><br><a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">[image or embed]</a></p>&mdash; RAshard iMAN KElly - NASA/JPL/JUNO/MRO/ECOSTRESS (<a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3?ref_src=embed">@rashardsdata.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:fa5fg6kkcovesfrk6tzfwjg3/post/3m3svun7l5s26?ref_src=embed">October 22, 2025 at 3:37 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+[https://id.nasa.gov](https://id.nasa.gov)
+[https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map](https://www.usgs.gov/news/national-news-release/usgs-unveils-new-national-geologic-map)
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+[ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) [TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
+[museum](https://hashmuseum.com/en/collection/reefer-madness/)
+[imdb](https://www.imdb.com/title/tt0028346/) [🍅](https://www.rottentomatoes.com/m/reefer_madness) [ThEEEAccaaaDUMEee](https://www.academymuseum.org/en/programs/detail/reefer-madness-0196127e-aec4-7c86-51a0-505f82a319b8)
+
+<iframe src="https://archive.org/embed/reefer_madness1938" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+## Proposition 64: The Adult Use of Marijuana Act
+Overview [The California Cannabis Hemp Initiative of 2014](https://lao.ca.gov/ballot/2014/140072.aspx)
+Effective November 9, 2016, Proposition 64 legalizes specified personal use and cultivation of marijuana for adults 21 years of age or older; reduces criminal penalties for specified marijuana-related offenses for adults and juveniles; and authorizes resentencing or dismissal and sealing of prior, eligible marijuana-related convictions. The proposition includes provisions on regulation, licensing, and taxation of legalized use. [California Courts](https://www.courts.ca.gov/prop64.htm) [Proposition 64 and Responsible Adult Use of Marijuana LA_COUNTY California](http://publichealth.lacounty.gov/sapc/public/proposition64.htm) [MEDICAL MARIJUANA IDENTIFICATION CARD PROGRAM](http://publichealth.lacounty.gov/docs/MMIP-FLYER.pdf) [Proposition 64 (Marijuana Offenses) FAQ [SanDieago]](https://www.sandiegocounty.gov/content/sdc/public_defender/prop_64_faq.html) [Proposition 64 - Personal Non-Medical Use of Cannabis Brea California](https://www.ci.brea.ca.us/1376/Prop-64-FAQ) [Prop 64 FAQs](https://www.santa-ana.org/prop-64-faqs/) [San Francisco Prop64 FAQ](https://sfpublicdefender.org/services/prop-64-faq/) When does Proposition 64 take effect? Proposition 64 took effect November 9, 2016. You can and should seek relief right away. [prop64](https://images.procon.org/wp-content/uploads/sites/16/ca-prop-64-marijuana.pdf) [Marijuana Initiative Enters Circulation](https://www.sos.ca.gov/administration/news-releases-and-advisories/2014-news-releases-and-advisories/db14-011) [Medicinal Cannabis: History, Pharmacology, And Implications for the Acute Care Setting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5312634/) [Congress quietly ends federal government’s ban on medical marijuana](https://www.latimes.com/nation/la-na-medical-pot-20141216-story.html)
+
+[DOWNLOAD~MARIJUANA LEGALIZATION. INITIATIVE STATUTE Proposition64](https://slper.senate.ca.gov/sites/slper.senate.ca.gov/files/Background%20Supplemental%20-%20Prop%2064%20Text.pdf)
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid028PeQhwyttJ3U5ysB4ie6fUMDbQdwM8M3yvFPEnnaeoZkFRLJWnyeHK7LAa2mymExl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
+@cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
+
+
+Files for the-new-adventures-of-[superman-1966](https://archive.org/download/the-new-adventures-of-superman-1966)
+
+# Outages
+I found a crispy [La Times](https://www.latimes.com/business/story/2025-10-20/amazon-cloud-computing-outage-disrupts-snapchat-ring-and-many-other-online-services) outside [Union Station](https://www.loc.gov/pictures/item/ca1312/) on my way to start my workday, [StFrancis](https://locator.lacounty.gov/lac/Location/3174007/st-francis-center---los-angeles) was open and i caught [breakFast @cityoflosangeles](https://www.stfranciscenterla.org/our-programs/) and rode the A into [Longbeach](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) to work out of [BillieJean](https://www.longbeach.gov/library/locations/main-library/) [@blackgirlscode](https://www.wearebgc.org/) i got angry on the train man . . .see comments on [metaFB](https://www.facebook.com/permalink.php?story_fbid=pfbid023a4sHtDkRBAsYSBEUz7oyoCrvBmeVi8HqGbrDZrd5UEFZQyZ9jnvceeUoBmkdq1ul&id=100084464911565)
+
+<iframe src="https://archive.org/embed/RashardNasaEarthDataRiverWatch" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[Amazon's massive AWS outage points to a key weakness in the modern internet - finance.yahoo.com](https://finance.yahoo.com/news/amazons-massive-aws-outage-points-to-a-key-weakness-in-the-modern-internet-145418180.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAANPnhgf7yxE_fTwDyG__5RRQ052W-rbWuHVs4KoLRpi-Sj4gfJKXgwmXZj7QNxdBtCVbrOg6eFw_hu_zHfUFqOqeE87I2vbY5vtx7Xw7MsddnsUEb8FE5ECgZx1wUMC6u0-HF4GYtOqDn-cXUL-qXLlCNxSjzypoeMV6wIBQSlXT) ; [The massive AWS outage that broke half the internet is finally over - here's what happened - zdnet.com](https://www.zdnet.com/home-and-office/networking/the-massive-aws-outage-that-broke-half-the-internet-is-finally-over-heres-what-happened/) : [AWS was down — live updates following massive outage that broke the internet](https://www.tomsguide.com/news/live/amazon-outage-october-2025) Amazon implemented fixes, but the multi-hour outage took time to resolve [Amazon says systems are back online after global internet outage - @cnn someone disabled copy paste in the url bar](https://www.cnn.com/business/live-news/amazon-tech-outage-10-20-25-intl) ; [@npr @newshour Outage at Amazon Web Services disrupts websites across the internet](https://www.npr.org/2025/10/20/nx-s1-5580312/aws-outage)
+presented by  [`TomsGuides`](https://www.tomsguide.com/news/live/amazon-outage-october-2025) ; [A common error appeared to cause a major AWS outage, bringing down platforms from Reddit to Snapchat - Business insider . com](https://www.businessinsider.com/dns-error-major-aws-outage-amazon-snapchat-reddit-venmo-2025-10) ; [AWS Outage: How Virginia Data Centers Brought Down the Internet Worldwide - newsweek.com](https://www.newsweek.com/aws-outage-how-virginia-data-centers-brought-down-the-internet-worldwide-10912026) ; [AWS outage spotlights the global economy's fragile foundations - Emily PecK](https://www.axios.com/2025/10/20/amazon-aws-outage-incident-zoom-youtube) : [Amazon Web Services outage shows internet users ‘at mercy’ of too few providers, experts say @guardian](https://www.theguardian.com/technology/2025/oct/20/amazon-web-services-aws-outage-hits-dozens-websites-apps) : [The internet just had another global outage. Why does this keep happening? @cnn](https://www.cnn.com/2025/10/20/tech/aws-why-internet-outages-keep-happening) ; [ geekWire - `AWS outage hits major apps and services, resurfacing old questions about cloud redundancy`](https://www.geekwire.com/2025/aws-outage-hits-major-apps-and-services-resurfacing-old-questions-about-cloud-redundancy/) 
+
+## [Here’s who has been impacted by the AWS outage ](https://thehill.com/policy/technology/5564082-aws-outage-lyft-fortnite-coinbase-peloton-roblox-amazon/)
+
+Here's the timeline [Tom's Hardwaretomshw.it/](https://www.tomshw.it/) [git](https://github.com/tomshw)
+At around 12:11am PDT (3:11am ET, 8:11am BST), AWS started experiencing outages. And as AWS is the backbone of most of the internet, it took out hundreds of websites and services with it.
+We started seeing huge spikes in outage reports for apps like Snapchat, Venmo and Ring, Amazon services like Alexa, and games like Fornite and Pokémon GO.
+At 1:26am PDT (4:26am ET, 9:26am BST), the issue was diagnosed as a big one related to the DynamoDB endpoint of AWS — the digital phonebook of the internet.
+At 2:01am PDT (5:01am ET, 10:01am BST), the specific problem was identified and work on a fix began.
+At 2:22am PDT (5:22am ET, 10:22am BST), the fix was deployed and since then, service has been slowly but surely returning to normal.
+BUT THEN, Reddit went down, and AWS updated saying there is a backlog of issues to work through.
+At 4:48am PDT (7:48am ET, 12:48pm BST), Amazon has found a fix but is still working on issues, as Ring and Chime are experiencing outages.
+At 5:48am PDT (8:48 ET, 1:48pm BST), more fixes are being applied. But almost in an interesting game of whack-a-mole, Wordle is down, and Snapchat users are experiencing outages too. The AWS outage reports are slowly starting to creep up again.
+At 9:15am PDT (11:15 am ET, 4:15pm BST) we started seeing a huge spike in reports for Venmo, a popular payment app. This came shortly after AWS said it was still investigating the root cause and identifying mitigations. It's still an issue and most definitely not resolved yet.
+At 10:03am PDT 1:03 pm ET, 6:15pm BST) AWS posted some updates, but it didn't add much other than letting us know it's working on the problem. At 10:38 PDT, the compay said, "We are applying mitigations to the remaining AZs at which point we expect launch errors and network connectivity issues to subside."
+At 12:15 p.m. PDT (3:15 ET, 8;15 BST) AWS posted some updates that the claimed services were starting to return with some intermittent function errors. We've also seen a slow but steady decrease in reports on Down Detector.
+Between 1:00 pm PDT and 2:30 pm, AWS posted cautious updates about slowly reducing throttles as the company brought more features back online.
+At 3:00 pm PDT (6 ET, 11 BST) AWS closed the issue listing as resolved and blaming it on a DNS issue and nin internal subsystem that didn't resolve after a DNS fix.
+
+
+
+<iframe src="https://archive.org/embed/Keen4e-sw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+# [![Twitter Follow](https://img.shields.io/badge/Social-RepKarenBass__-blue?style=social&logo=X)](https://twitter.com/RepKarenBass) Rep_Karen_Bass, 
+the trend in atlanta  was
+
+<img width="626" height="515" alt="image" src="https://github.com/user-attachments/assets/7f66c164-6c83-4fe4-bbd9-57d0e0de1a69" />
+
+[![Twitter Follow](https://img.shields.io/badge/Social-KTLA__-blue?style=social&logo=X)](https://twitter.com/KTLA) covered [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/) Sicne you are in congress and know that a project is paid for before anywork is done... I need your @att side to understand that we are [Ground Systems & Data  Mission swot](https://swot.jpl.nasa.gov/mission/ground-systems-and-data/) [Ground Data Systems and Mission Operations](https://www.nasa.gov/intelligent-systems-division/collaborative-and-assistant-systems/ground-and-flight-data-systems-group/) [Ground Data Systems and Mission Operations](https://www.nasa.gov/smallsat-institute/sst-soa/ground-data-systems-and-mission-operations/) like sevearl titles on mars. The hardware breaks down and there is a lot to doing mantenance.. have you ever heard our successful repair or [return trip stories](https://www.jpl.nasa.gov/missions/genesis/) like [Osiris-REx](https://svs.gsfc.nasa.gov/gallery/osirisrex/)? @nasa @nasa-jpl @blackgirlscode @whitehouse @cityoflosangeles @stateofcalifornia
+
+"the first U.S. mission to collect a sample from an asteroid. It returned to Earth on Sept. 24, 2023, to drop off a capsule with material from asteroid [Bennu](https://science.nasa.gov/solar-system/asteroids/101955-bennu/)." - [Readmore](https://science.nasa.gov/mission/osiris-rex/)
+
+[@NASA-JPL reveals new video, images from Perseverance rover on Mars](https://youtu.be/4C65iZQ_Yx8)
+![MSL_WHEEL](https://rashardmro.github.io/assets/img/Sol4518.gif)
+
+
+# Rep_Karen_Bass, [![Twitter Follow](https://img.shields.io/badge/Social-BarackObama__-blue?style=social&logo=X)](https://twitter.com/BarackObama) [![Twitter Follow](https://img.shields.io/badge/Social-NASAJPL__-blue?style=social&logo=X)](https://twitter.com/NASAJPL) [![Twitter Follow](https://img.shields.io/badge/Social-DeptofDefense__-blue?style=social&logo=X)](https://twitter.com/DeptofDefense)
+Hi its rashard, I left you some notes on [@trello](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) I have been suffering with Chemicalk Burns on my tattoos and Someone in the Police Dept said they work For JPL, so im just getting organized, If I work Fire i assume I work PD and still in training as well...At somelevel anyway and those people that banned me from making money and using computers are suppressig me bc i dont have a sexually scarred criminal record... Ppl who have at anytime subscribes to the term GraffitiWriter... [gamer aswell!](https://rashardlanasa.github.io/ricothakarashard/Arcade)have had really isolated lives... [I Made a WebPage](https://rashardlanasa.github.io/ricothakarashard/GraffShit) I want you to find a way to make a communal viewing out of, there are others to contribute, but this is the collection that the art crowd uses for ["inspiration"](https://www.reddit.com/r/writing/comments/lk33de/difference_between_plagiarism_vs_inspiration/) I found several [AmmunitionTypes](https://trello.com/1/cards/68166914ce7c9f6acfada5c9/attachments/684f2c08cdbeafe42d0b0a6a/download/SimpleScanStation20250615131441-2.png) around CityHAll, [the bullet was here](https://earth.google.com/web/search/Los+Angeles+Union+Station,+North+Alameda+Street,+LA,+CA/@34.05798087,-118.23727031,83.59976403a,51.3777845d,35y,0h,0t,0r/data=CiwiJgokCToKCdMYYEFAEVqDiL8qq0BAGS-1WpePil3AId3wLchq-l3AQgIIATIpCicKJQohMTNuQnFBRFgxRWtqZHpTTEFsMkh1LUFjakt3ZlVOblgtIAE6AwoBMEICCABKCAiMn4vQBhAB) 
+
+![image](https://github.com/user-attachments/assets/dbaa83e8-1234-4b38-a5b9-1e7b2f6ea363) [34°03'28"N 118°14'14"W](https://www.google.com/search?q=34%C2%B003%2728%22N+118%C2%B014%2714%22W&rlz=1CASLJZ_enUS1166&oq=34%C2%B003%2728%22N+118%C2%B014%2714%22W&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzczNWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8) I think its the same Crowd that overthrew the capitol in [the Jan6th Insurrection](https://github.com/user-attachments/assets/311b831c-4d75-454c-9144-26bf29f3afbb)... I have a photoessay on [version2](https://rashardlanasa.github.io/2025/04/22/Marsblogv2.html) of this still incomplete frontend! 
+![image](https://github.com/user-attachments/assets/0c8b6192-9bac-4218-92d2-da621ff64092)  @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles
+
+
+# Photos from the nationwide 'No Kings' protests amid Trump's military celebration
+The Los Angeles Metro Police on horseback strike protesters with batons away from the Edward Roybal Federal Building in Los Angeles, on June 14, 2025.
+@cityoflosangeles @stateofcalifornia @nassa-jpl [Jay Calderon/The Desert Sun](https://www.usatoday.com/picture-gallery/news/nation/2025/06/14/no-kings-trump-protest-photos/84200945007/)
+[CRUSH NOSE CHEMICAL BATON - 37MM](https://ustacticalsupply.com/cscrushnosechemicalbaton-37mm.aspx) [https://www.sageinternationalltd.com/SCOI/ko3.html](https://www.sageinternationalltd.com/SCOI/ko3.html) [BATONS & IMPACT DEVICES (28)](https://shop.tchgear.com/c/safety-products-batons-impact-devices)
+<img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/15/PPAS/84214334007-la-protest-saturday-6.jpg?width=660&amp;height=419&amp;fit=crop&amp;format=pjpg&amp;auto=webp" alt="The Los Angeles Metro Police on horseback use batons to move the crowd away from the Edward Roybal Federal Building in Los Angeles, Calif., June 14, 2025."/>
+
+<img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2025/06/15/PPAS/84214332007-la-protest-saturday-5.jpg?width=660&amp;height=461&amp;fit=crop&amp;format=pjpg&amp;auto=webp" alt="The Los Angeles Metro Police on horseback strike protesters with batons away from the Edward Roybal Federal Building in Los Angeles, on June 14, 2025."/>
+![image](https://github.com/user-attachments/assets/0514739c-d314-4779-a988-3b5809190438)
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/NOAA/comments/1lca6g1/nokingsprotest_ammunitioncrowdcontrol_sample_arms/">#NOKiNGSPRoTest : #AMMUNiTiON:#CROWDCONTROL sample arms</a><br> by<a href="https://www.reddit.com/user/Dizzy-Decision-2115/">u/Dizzy-Decision-2115</a> in<a href="https://www.reddit.com/r/NOAA/">NOAA</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+![SimpleScanStation20250615131441-2](https://github.com/user-attachments/assets/3ba927db-c6cb-4fad-8667-2a570d985831)
+
+
+#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood #AGiLE:#BLOCKERS
+This lady that look like Laurie Leshin cousin from Georgia was in here, its like 3 astro sisters. If she is the one i am thinking of she is attached to Caltech via GaTech and just working out here while whatever civil upheaval resolves in the south… The guard put her out while she was screaming im working… [readmore](https://rashardlanasa.github.io/mybinder/)
+
+ 
+
 
 # AnimalFarm 1954
 
