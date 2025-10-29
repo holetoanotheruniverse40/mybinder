@@ -1,4 +1,80 @@
 
+# Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
+
+The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
+faraway galaxies, satellite navigation, and even the health and safety
+of our astronauts rely on communications systems that move data to
+and from space. That’s where the Tracking and Data Relay Satellite
+(TDRS) constellation comes in. + [@nasa GeneralDynamics](https://gdmissionsystems.com/satellite-ground-systems/tracking-and-data-relay-satellite-system)
+[DOWNLOAD-PDF @TheSpaceDevs](https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab)
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f8406f78-7451-4bcd-96f9-bc6cc161f48c" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e0b6dccf-6b1d-4eb4-a8c3-6a7ef493ffa2" />
+
+
+<img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
+
+![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
+
+
+
+
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+
+@blackgirlscode @nasa-jpl 
+
+
+# [@nasa-develop @stateofcalifornia @cityoflosangeles @usgs @blackgirlscode](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+ [watchVid](https://ia601006.us.archive.org/10/items/vid-20250910-135146/VID_20250919_103337.mp4)
+
+
+[@emit-sds - rashards ecostress hackathon sub](https://github.com/ThakaRashard/rashardmro/commit/5b333ec4f5e2c2c85280d17f1892ebd0f79f4058#diff-097a54917a481915404192fd7a8be0c6ba10a4e93d0168b6aeca44cd138f3a32)
 # [#WorKiNG_REMOTE:POST_EATON_CANYON_WiLDFiRE:: #LiBrary_Life in Hollywood](#BLOCKERS)
 [#AGiLE](https://www.oreilly.com/library/view/learning-agile/9781449363819/):#[BLOCKERS](https://www.solutioneers.co.uk/blockers/)
 This lady that look like Laurie Leshin cousin from Georgia was in here, its like 3 astro sisters. If she is the one i am thinking of she is attached to Caltech via GaTech and just working out here while whatever civil upheaval resolves in the south... The guard put her out while she was screaming im working... I KNOW FOR SURE SHE IS A DATASCiENTiST and good with #WikiMarkup its still like 6000 ppl work for JPL and LA is a very outdoorsy place bc the housing was never designed to support the native Architechture, Ms Bass is nesting and Gavin is angry at trump but i see less in your face hurtful behavior so however things work LAPD had on Michael Jackson chin gaurds an there was a big art party, the gaurd should not have put her out -#[rashard u/nasa #JPL @reddit](https://thakarashard.github.io/) 🚫 `Sorry, this post was removed by Reddit’s filters.` [Read On Reddit](https://www.reddit.com/r/NASAJobs/comments/1laloht/working_remotepost_eaton_canyon_wildfire_library/) @nasa @nasa-jpl @stateofcalifornia : @blackgirlscode if you having troubles!@cityoflosangeles [books.google](https://books.google.com/books/about/Learning_Agile.html?id=gbxUBQAAQBAJ) [AGILE METHODOLOGIES -Gayatri Vidya Parishad College of Engineering https://gvpce.ac.in › ECE › syllabus](https://gvpce.ac.in/ECE/R-2019/syllabus/19CS11P1.pdf) [JPL to Transition to Fully Onsite Work:@nasa-jpl life](https://www.jpl.nasa.gov/news/jpl-to-transition-to-fully-onsite-work/)
@@ -552,3 +628,4 @@ This is what i actually need more @nasa-jpl [FiREBASE](https://firebase.google.c
 
 <img src="https://pbs.twimg.com/media/GkMxuxKbUAEdpYo?format=jpg&amp;name=large" alt="From DAd"/>
 ![image](https://github.com/user-attachments/assets/c4d81f0e-2f26-478d-8353-6a685167fe8e)
+
