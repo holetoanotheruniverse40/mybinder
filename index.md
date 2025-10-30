@@ -21,6 +21,11 @@ At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
 
+# CellularSoap
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [HoodBitCHAesthetic - RubiRose](https://soundcloud.com/rubianarose/hood-bitch-aesthetic?in=bubblegumpop-978449604/sets/startingover&si=395aceafbaeb470cb12ac5254c0f1a69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) [Damage
+H.E.R.](https://soundcloud.com/iamhermusic/damage?si=c63ab6b270724fc889739c88de09afd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+![image](https://github.com/user-attachments/assets/5298cc19-e31e-4834-a62f-d2006886ac22) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0)
+
 # Super Chase - Criminal Termination 1993
 ## スーパー・チェイス・クリミナル・ターミネション
 [wiki](https://en.wikipedia.org/wiki/Super_Chase_H.Q.) : [Museum](https://www.arcade-museum.com/Videogame/super-chase-criminal-termination)  : [LaunchBoX](https://gamesdb.launchbox-app.com/games/details/39251-super-chase-criminal-termination)
