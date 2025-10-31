@@ -38,6 +38,13 @@ mathjax: true
 [Link](https://archive.org/details/commitmentmaintenance)
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/a1c99f95-9a7e-43d1-a47a-c0f51714b61d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/c2575822-61cd-4b0f-b5b1-a724d508ea28" />
+<img alt="@nasa-pds https://pds.nasa.gov/pilot.wr.usgs.gov Not Found @usgs @blackgirlscode @nasa @whitehouse @Cityoflosangeles @StateofCalifornia @dhs-gov" src="https://github.com/user-attachments/assets/618888fb-3e6f-4100-b51a-374565a85b66" />
+
+[Omarion - Distance (Official Music Video)](https://youtu.be/vsrhIUmPf-w?si=GBOkjfFjBW6OBSAD)
+
+![@blackgirlscode](https://solarsystem.nasa.gov/images/casJPGFullS96/N00270587.jpg)
 
 Dragon Ball Z - Westwood Ocean Dub Remastered (COMPLETE)
 @emit-sds [on @rashardsdata /watchlist @blackgirlscode](https://rashardsdata.github.io/wfh/work/secular/2025/10/30/WatchPlayLisT.html)
@@ -75,6 +82,57 @@ At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [READ -
 [GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [HoodBitCHAesthetic - RubiRose](https://soundcloud.com/rubianarose/hood-bitch-aesthetic?in=bubblegumpop-978449604/sets/startingover&si=395aceafbaeb470cb12ac5254c0f1a69&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) [Damage
 H.E.R.](https://soundcloud.com/iamhermusic/damage?si=c63ab6b270724fc889739c88de09afd0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 ![image](https://github.com/user-attachments/assets/5298cc19-e31e-4834-a62f-d2006886ac22) [Coi Leray - Bops](https://youtu.be/ttDtl94JNx0)
+
+[FortBenning @uidaholib @nasa-pds @nasa-jpl @emit-sds](https://www.benning.army.mil/)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenningeducationcenter%2Fposts%2Fpfbid0UMc7qyEJFipkjGAMTfRPcdN4d1BFbxEBbiti7ynANJkSmzhek3BoMuZbGrYW5Rkgl&show_text=true&width=500" width="500" height="609" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+```
+Thaka Sartu
+https://pds.nasa.gov/pilot.wr.usgs.gov Not Found
+The requested URL was not found on this server. U.S. Geological Survey (USGS)#OUTAGE - -#rashard NASA Jet Propulsion Laboratory ABC7 Morning Show Adam Kelly CBS Atlanta The View
+15m
+Reply
+Thaka Sartu
+PDS_VERSION_ID = PDS3
+RECORD_TYPE = STREAM
+LABEL_REVISION_NOTE = "
+2012-03-12 JUNO: Kurth Revision 1;
+2015-08-15 JUNO: Kurth and Stephens Revision 2;
+2016-10-13 PDS: Mafi Revision 3;
+2016-04-20 JUNO: Kurth Revision 4;
+2022-01-21 JUNO: Kurth, Bolton Revision - XM"
+OBJECT = MISSION
+MISSION_NAME = "JUNO"
+OBJECT = MISSION_INFORMATION
+MISSION_START_DATE = 2011-08-05
+MISSION_STOP_DATE = NULL
+MISSION_ALIAS_NAME = NULL
+Secretary Sean Duffy im still down Supervisor Holly J. Mitchell #JUNO Karen Bass Normani u in ? NASA Space Communications and Navigation NASA Artemis https://pds-ppi.igpp.ucla.edu/data/JNO-J-ASC-2-IMG-V1.0/CATALOG/ PDS Data Release Summary
+PDS DATA ANNOUNCEMENT : Oct 22, 2025 https://pds.nasa.gov/datasearch/subscription-service/SS-20251022.shtml Maxine Waters Kamala Harris Michelle Obama Kimberly Bryant, Founder Black Girls CODE NASA Astronaut Jonny Kim NASA/Women.of.ISS
+12m
+Reply
+Thaka Sartu
+UCLA Health can we do somethign to heal our ankle injuries, i got kidnapped with atlantas dancing girls Dance 411 Black Girls Code and stranded working remote from an old NASA/JPL Physical Oceanography Data Center #Activ3Mission assignment Selective Service System -#RASHARD_IMAN_KELLY Flo Milli Secretary of War Pete Hegseth Secretary Sean Duffy https://pds.nasa.gov/datasearch/subscription-service/SS-20251022.shtml Due to the lapse in appropriations, the service you are trying to access is unavailable until further notice. If you urgently need to speak with someone at the USGS regarding emergencies or matters of protecting life and property, call (703) 648-7411 or (703) 648-7412. For more information on the shutdown, please visit the Department of the Interior website at www.doi.gov. UCLA Jonsson Comprehensive Cancer Center University of Southern California Not Found
+The requested URL was not found on this server. Defense Information Systems Agency Vanderbilt University Vandenberg Space Force Base https://pds.nasa.gov/pilot.wr.usgs.gov
+10m
+Reply
+Edited
+Thaka Sartu
+https://www.usgs.gov/tools/planetary-image-locator-tool-pilot Maxine Waters Congressmember Karen Bass Senator Alex Padilla Due to a lapse in appropriations, the majority of USGS websites may not be up to date and may not reflect current conditions. Websites displaying real-time data, such as Earthquake, Volcano, LANDSAT and Water information needed for public health and safety will be updated with limited support. Additionally, USGS will not be able to respond to inquiries until appropriations are enacted. For more information, please see www.doi.gov/shutdown. St. Francis Center some ppl from georgia need to check in here or Fort Stewart Hunter Army Airfield Normani Mary J. Blige Kimberly Bryant, Founder Black Girls CODE Planetary Image Locator Tool (PILOT)
+September 10, 2018
+View Web Tool
+PILOT (Planetary Image Locator Tool) is an online data portal used by planetary scientists and cartographers to search through the raw archives of the PDS Cartography and Imaging Science Node. It searches through a large catalog of visual, infrared and spectrometer camera images taken of planetary bodies in our solar system. For information on specific missions, please visit the Data Portal. USGS Volcanoes https://pds.nasa.gov/pilot.wr.usgs.gov Not Found
+The requested URL was not found on this server. Landsat -#rashard NASA's Perseverance Mars Rover NASA InSight
+May be an image of ‎text that says '‎./ information ocztor: public www.dol.gov/shutdown. with limited Farhd: USGS Additionally USGS م1 N0077: WFB FBTOOLS leugy DATA ACCESS TOOLS facebook.com/bemrlngduatenar . DATA ANALYSIST OOLS NTERACTIVE MAPS Actimamuled Fort Benning Education Center's Post 2018 Planetary Image Locator Tool (PILOT) Vlew eb ECTИW_И SIRLAM Fevtsion2 (Planetary ളള I.ncator' 'aol) throughth Revtion እም anline Intormation missions, pleasevi Explore Search planetary scientisrs Imaging Science budies amerd Data Portal Planetary Science rartngrapherst large ย ί States OJUNO Karen Rocky Mountain Astrogeology Science Center View ด้สระ์จด sarch Was page helpful? תתהער‎'‎
+3m
+Reply
+Thaka Sartu
+https://worldview.earthdata.nasa.gov/?v=-140.7136903401519,13.528565445249427,-64.01318997411342,51.59917838735083&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA21_DayNightBand,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&tr=black_marble_night_lights&t=2025-10-29-T00%3A00%3A00Z #SHOULDGiVEYOUTHAT! -#Rashard :#BeachWindsorHigh Savannah Police Department Black Girls Code NASA Astronaut Jonny Kim im dumping them on the military NASA Science NASA Solar System Exploration NASA's Kennedy Space Center NASA's Perseverance Mars Rover Steeda https://www.facebook.com/KennyChesney/posts/pfbid0AsUtZEQDFpDzDvZwk7eUdFjG7n7wFPxSjxji2pMKzDCDan424bga3iMqBQUmbcXWl Kenny Chesney #tellChadStahlmanHello! City of Santa Monica Big Blue Bus United Nations Office for Outer Space Affairs (UNOOSA)
+```
+
+
 
 # Super Chase - Criminal Termination 1993
 ## スーパー・チェイス・クリミナル・ターミネション
