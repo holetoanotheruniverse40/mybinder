@@ -6,6 +6,15 @@ mathjax: true
 `jekyll.version`  {{ jekyll.version }}
 
 
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+[Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) (MEPAG) November 2025 Meeting
+Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
+[@nasa-pds](https://github.com/nasa-pds) @[nasa-jpl](https://github.com/nasa-jpl) 
+<img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2192818503&color=%23213849&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlordsear" title="Dj Lord Sear - The Lord Sear Special" target="_blank" style="color: #cccccc; text-decoration: none;">Dj Lord Sear - The Lord Sear Special</a> · <a href="https://soundcloud.com/djlordsear/dj-lordsears-classic-drunk-mix" title="DJ LORDSEAR&#x27;S CLASSIC DRUNK MIX 9-27-2023" target="_blank" style="color: #cccccc; text-decoration: none;">DJ LORDSEAR&#x27;S CLASSIC DRUNK MIX 9-27-2023</a></div>
 
 [comment]: <> (Emergency Files )
