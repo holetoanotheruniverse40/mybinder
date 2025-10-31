@@ -10,6 +10,7 @@ mathjax: true
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=252&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2195743780921286%2F&show_text=false&width=560&t=0" width="560" height="252" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
+[Tickets @weather-gov @commercegov](https://thakarashard.github.io/rashardmro/2025/10/30/BuildingBlocks.html)
 
 # AnimalFarm 1954
 
