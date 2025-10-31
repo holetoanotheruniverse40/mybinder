@@ -7,9 +7,24 @@ mathjax: true
 
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
-[Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) (MEPAG) November 2025 Meeting
+[Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) (MEPAG) [November 2025](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4) Meeting
 Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
 [@nasa-pds](https://github.com/nasa-pds) @[nasa-jpl](https://github.com/nasa-jpl) 
+Name
+Mr. Rashard Iman "Rashard" Kelly
+Company NASA: Jet Propulsion Laboratory LaCounty
+Country United States
+Telephone (818) 354-4321
+Email holetoanotheruniverse40@gmail.com
+ADA Special Needs ucla put some thing in my ankle that feels like a magnet... i gotta study more idk the probability of doom...
+Civil Servant non-NASA U.S. Govt. employee
+Registration Type Professional Virtual Registration
+Amount b$0.00 Your badge will appear as:
+Rashard
+Kelly
+NASA: Jet Propulsion Laboratory LaCounty [@nasa-jpl](https://archive.org/download/commitmentmaintenance/48584%20NASA%20Viking.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/4d01be0f-799b-44c8-9e0c-5074f1108373" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
