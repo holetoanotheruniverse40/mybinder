@@ -5,20 +5,66 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+[comment]: <> (Emergency Files )
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=252&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F2195743780921286%2F&show_text=false&width=560&t=0" width="560" height="252" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
 
 # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS- @BlackGirlsCode @nasa-PDS @emit-sds
 [Link](https://archive.org/details/commitmentmaintenance)
 <iframe src="https://archive.org/embed/commitmentmaintenance" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
+Dragon Ball Z - Westwood Ocean Dub Remastered (COMPLETE)
+@emit-sds [on @rashardsdata /watchlist @blackgirlscode](https://rashardsdata.github.io/wfh/work/secular/2025/10/30/WatchPlayLisT.html)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02DwGtHxD9D1QSAAczzWwkDXQsAj3F83EimKzrVACtEvTmBTDGYk9CcpQyRBv2Y7WQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[@blackgirlscode LinK @emit-sds](https://ia600307.us.archive.org/10/items/commitmentmaintenance/000004wVID_20251030_132403_663.mp4) [ALT](https://ia800307.us.archive.org/10/items/commitmentmaintenance/000004wVID_20251030_132403_663.mp4)
+<img alt="image" src="https://github.com/user-attachments/assets/d39a3b10-5956-4223-a4d3-3fa2533fc7d6" />
+
+
+## WorkPortal
+
+## OUTAGES and Anomolies 
+[SpaceForce @nasa](https://www.space.com/space-force-domain-awareness-abnormal-observables) [ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
+
+[Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
+Private Snafu
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e00df554-c345-4093-b505-e2ba09d5ad69" />
+
+ @cityoflosangeles karen bass, i need to test today, but thats where i was @blackgirlscode
+[domain]/[rashardmro]
+actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) on @x f.k.a @twitter 
+[Commit c1a7e30](https://github.com/ThakaRashard/rashardmro/commit/c1a7e30d29fe97bdb601ba0ca32a87515b72e07e) i was recently asked to remove a tweet by [force](https://archive.org/details/article_1_declaration_of_rights_section_1__sec_2_californiaconstitution)
+
+
+
 # NASA Appropriations and Authorizations:
-At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
-[READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
-[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
-@cityoflosangeles 
-[@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
-[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
-[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419) [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+@cityoflosangeles [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov [Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU) [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
 
 # CellularSoap
@@ -298,6 +344,20 @@ Except as provided in paragraph (5) of subdivision (b) and in subdivisions (k) a
 <img alt="image" src="https://github.com/user-attachments/assets/2501d95e-60fe-4894-b641-f51a7acb1bed" />
 <img alt="image" src="https://github.com/user-attachments/assets/95a2a3a5-0039-4dca-b8f2-f06d10e5291b" />
 
+# Mars Reconnaissance Orbiter [Pics - click here](https://github.com/rashardsdata/rashardsdata.github.io/commit/b5b3c5a403217116581bd2612d17c2dd6a58a38c)
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
 
 # https://www.massappeal.com/
 
